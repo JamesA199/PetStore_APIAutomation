@@ -15,3 +15,19 @@
 12:05:06.504 [main] INFO  api.test.UserTests_byPropertyFile - ******************finished testUpdateUserByName by property file*******************
 12:05:06.505 [main] INFO  api.test.UserTests_byPropertyFile - ******************running testDeleteUserByName by property file*******************
 12:05:06.821 [main] INFO  api.test.UserTests_byPropertyFile - ******************finished testDeleteUserByName by property file*******************
+21:40:21.397 [main] INFO  api.test.UserTests_001 - ******************running testPostUser create user*******************
+21:40:22.645 [main] INFO  api.test.UserTests_001 - ******************finished testPostUser create user*******************
+21:40:22.652 [main] INFO  api.test.UserTests_001 - ******************running testGetUserByName*******************
+21:40:23.011 [main] INFO  api.test.UserTests_001 - ******************finished testGetUserByName*******************
+21:40:23.012 [main] INFO  api.test.UserTests_001 - ******************running testUpdateUserByName*******************
+21:40:23.681 [main] INFO  api.test.UserTests_001 - ******************finished testUpdateUserByName*******************
+21:40:23.682 [main] INFO  api.test.UserTests_001 - ******************running testDeleteUserByName*******************
+21:40:24.007 [main] INFO  api.test.UserTests_001 - ******************finished testDeleteUserByName*******************
+21:40:24.023 [main] INFO  api.test.UserTests_byPropertyFile - ******************running testPostUser create user by property file*******************
+21:40:24.493 [main] INFO  api.test.UserTests_byPropertyFile - ******************finished testPostUser create user by property file*******************
+21:40:24.494 [main] INFO  api.test.UserTests_byPropertyFile - ******************running testGetUserByName by property file*******************
+21:40:24.822 [main] INFO  api.test.UserTests_byPropertyFile - ******************finished testGetUserByName by property file*******************
+21:40:24.823 [main] INFO  api.test.UserTests_byPropertyFile - ******************running testUpdateUserByName by property file*******************
+21:40:25.456 [main] INFO  api.test.UserTests_byPropertyFile - ******************finished testUpdateUserByName by property file*******************
+21:40:25.457 [main] INFO  api.test.UserTests_byPropertyFile - ******************running testDeleteUserByName by property file*******************
+21:40:25.785 [main] INFO  api.test.UserTests_byPropertyFile - ******************finished testDeleteUserByName by property file*******************
